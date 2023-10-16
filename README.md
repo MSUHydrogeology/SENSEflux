@@ -1,7 +1,7 @@
 # Introduction
 The SENSEflux (Spatially Explicit Nutrient Source Estimate and Flux) model was developed by MSU Hydrogeology Lab at Michigan State University. This model uses a GIS and mass balance approach to simulate nutrient fate and transport from point and nonpoint sources across the landscape through rivers to lakes and wetlands. It includes four components: (1) nutrient applications, (2) in situ losses, (3) basin attenuation through surface and subsurface pathways, and (4) stream and lake attenuation. 
 
-Please see related publications below: 
+## Please see related publications below: 
 
 Wan, L., Kendall, A. D., Martin, S. L., Hamlin, Q. F., & Hyndman, D. W. (2023）.Important Role of Overland Flows and Tile Field Pathways in Nutrient Transport. Environmental Science & Technology. https://doi.org/10.1021/acs.est.3c03741.
 
@@ -16,7 +16,7 @@ Luscz, E. C., Kendall, A. D., & Hyndman, D. W. (2015). High resolution spatially
 
 
 
-Please see related data below: 
+## Please see related data below: 
 
 Wan, L. (2023). SENSEflux-USGLB: Nitrogen and Phosphorus Loads, Sources and Pathways, HydroShare, http://www.hydroshare.org/resource/90058d6565784aad97cdf51262777590
 
