@@ -15,7 +15,9 @@ Luscz, E. C., Kendall, A. D., & Hyndman, D. W. (2015). High resolution spatially
 
 
 
+
 Please see related data below: 
+
 Wan, L. (2023). SENSEflux-USGLB: Nitrogen and Phosphorus Loads, Sources and Pathways, HydroShare, http://www.hydroshare.org/resource/90058d6565784aad97cdf51262777590
 
 Hamlin, Q. F., A. D. Kendall, S. Martin, H. Whitenack, J. Roush, B. Hannah, D. W. Hyndman (2020). SENSEmap-USGLB: Nitrogen and Phosphorus Inputs, HydroShare, https://doi.org/10.4211/hs.1a116e5460e24177999c7bd6f8292421
