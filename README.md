@@ -5,7 +5,7 @@ The SENSEflux (Spatially Explicit Nutrient Source Estimate and Flux) model was d
 
 Wan, L., Kendall, A. D., Martin, S. L., Hamlin, Q. F., & Hyndman, D. W. (2023). Important Role of Overland Flows and Tile Field Pathways in Nutrient Transport. Environmental Science & Technology. https://doi.org/10.1021/acs.est.3c03741
 
-Wan, L., Kendall, A. D., Martin, S. L., Hamlin, Q. F., & Hyndman, D. W. (2023). SENSEflux-USGLB: Nitrogen and Phosphorus Loads, Sources and Pathways. HydroShare. http://www.hydroshare.org/resource/90058d6565784aad97cdf51262777590
+Wan, L., A. D. Kendall, S. L. Martin, Q. F. Hamlin, D. W. Hyndman (2023). SENSEflux-USGLB: Nitrogen and Phosphorus Loads, Sources and Pathways, HydroShare, https://doi.org/10.4211/hs.2ec257d6ed0246098d1d6dae8074ecbc
 
 ## Other Related Publications and Data: 
 
