@@ -47,3 +47,5 @@ abstract: >-
   components: (1) nutrient applications, (2) in situ losses,
   (3) basin attenuation through surface and subsurface
   pathways, and (4) stream and lake attenuation.
+license: CC-BY-4.0
+date-released: '2023-10-16'
