@@ -1,0 +1,49 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: >-
+  Spatially Explicit Nutrient Source Estimate Flux
+  (SENSEflux) Model 
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Luwen
+    family-names: Wan
+    email: wanluwen@msu.edu
+    orcid: 'https://orcid.org/0000-0002-6414-4500'
+    affiliation: Michigan State University
+  - given-names: 'Anthony '
+    family-names: 'Kendall '
+    email: kendal30@msu.edu
+    affiliation: Michigan State University
+    orcid: 'https://orcid.org/0000-0003-3914-9964'
+  - given-names: Sherry
+    family-names: 'Martin '
+    email: slmartin@usgs.gov
+    affiliation: USGS Upper Midwest Water Science Center
+    orcid: 'https://orcid.org/0000-0001-7471-0476'
+  - given-names: 'Quercus '
+    family-names: 'Hamlin '
+    email: quercus.hamlin@outlook.com
+    affiliation: 'Airspace Link, Inc.'
+    orcid: 'https://orcid.org/0000-0001-7093-5010'
+  - given-names: 'David '
+    family-names: 'Hyndman '
+    email: hyndman@utdallas.edu
+    affiliation: The University of Texas at Dallas
+    orcid: 'https://orcid.org/0000-0001-9464-8403'
+repository-code: 'https://github.com/MSUHydrogeology/SENSEflux.git'
+url: 'https://github.com/MSUHydrogeology/SENSEflux'
+abstract: >-
+  The SENSEflux (Spatially Explicit Nutrient Source Estimate
+  and Flux) model was developed by MSU Hydrogeology Lab at
+  Michigan State University. This model uses a GIS and mass
+  balance approach to simulate nutrient fate and transport
+  from point and nonpoint sources across the landscape
+  through rivers to lakes and wetlands. It includes four
+  components: (1) nutrient applications, (2) in situ losses,
+  (3) basin attenuation through surface and subsurface
+  pathways, and (4) stream and lake attenuation.
